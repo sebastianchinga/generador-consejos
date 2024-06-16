@@ -1,3 +1,4 @@
 node_modules
 *.md
 design
+build
