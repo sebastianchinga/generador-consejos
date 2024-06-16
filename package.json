@@ -1,0 +1,23 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Sebastian Chinga",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^10.4.1",
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.5",
+    "sharp": "^0.33.4"
+  }
+}
